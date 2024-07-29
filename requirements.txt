@@ -1,7 +1,0 @@
-urlextract
-wordcloud
-pandas
-emoji 
-matplotlib
-seaborn
-streamlit
